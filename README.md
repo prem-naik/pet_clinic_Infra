@@ -1,4 +1,4 @@
-## EE Assignment
+## Pet-clinic IAAC
 
 #### Assumptions:
 1. AWS key-pair with name alpha_ec2_key is created.
